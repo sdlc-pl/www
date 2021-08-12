@@ -10,8 +10,7 @@ In systems engineering, information systems and software engineering, the softwa
 
 ## URL
 
-
-# sdlc.pl
+https://www.dev-insider.de/was-ist-der-sdlc-a-709097/
 
 
 
